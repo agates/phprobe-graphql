@@ -1,0 +1,13 @@
+{
+  "name": "phprobe-graphql",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/agates/phprobe-graphql.git",
+  "author": "Alecks Gates <alecks.g@gmail.com>",
+  "license": "GPL3",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.12.3"
+  }
+}
